@@ -35,3 +35,12 @@
     - Color or shape based object detection.
     - Point, Line, Edge Detect.
     - Region-Based Segmentation.
+
+
+### References:
++ Rafael C. Gonzalez, Richard Richard Eugene Woods, Steven L. Eddins - Digital Image Processing Using MATLAB-Gatesmark Publishing@ (2009)
++ https://opencv-python-tutroals.readthedocs.io/en/latest/index.html
+
+### Thanks for Images
+https://homepages.inf.ed.ac.uk/rbf/HIPR2/typelib.htm
+
