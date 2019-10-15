@@ -5,21 +5,18 @@
 1. Basic I/0: Read,Show,Write Images
     - Image Represenation in OpenCV
 2. Basic Operations:
-    - Convert
-    - Resize
-    - Flip
-    - Rotate
-    - Crop
+    - ~~Convert~~
+    - ~~Resize~~
+    - ~~Flip~~
+    - ~~Rotate~~
+    - ~~Crop~~
 3. Mathematical and Logical Operations on Images:
-    - Matrix Opeations
-    - Artihmatic Operations.
-    - Set and Logical Operations.
-    - Spatical Operations.
-    - Probabilistc Methods
+    - ~~Matrix Opeations~~
+    - ~~Artihmatic Operations.~~
+    - ~~Logical Operations.~~
 4. Image Enhancement
-    - Neagative Transform
-    - Log Transform
-    - Power-law(Gamma) transformations
+    - ~~Log Transform~~
+    - ~~Power-law(Gamma) transformations~~
     - Contrast Stretching
     - Histogram Processing
     - Histogram Equalization
