@@ -17,9 +17,9 @@
 4. Image Enhancement
     - ~~Log Transform~~
     - ~~Power-law(Gamma) transformations~~
-    - Contrast Stretching
-    - Histogram Processing
-    - Histogram Equalization
+    - ~~Contrast Stretching~~
+    - ~~Histogram Processing~~
+    - ~~Histogram Equalization~~
     - Spatial Filtering
     - Spatial Correlation and Convolution
     - Linear Spatial Filters(average, disk, laplacian, log, motion, prewitt, sobel, unsharp).
