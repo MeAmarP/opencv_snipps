@@ -35,6 +35,7 @@
 ### References:
 + Rafael C. Gonzalez, Richard Richard Eugene Woods, Steven L. Eddins - Digital Image Processing Using MATLAB-Gatesmark Publishing@ (2009)
 + https://opencv-python-tutroals.readthedocs.io/en/latest/index.html
++ https://docs.opencv.org/4.1.0/d4/d86/group__imgproc__filter.html#ga27c049795ce870216ddfb366086b5a04
 
 ### Thanks for Images
 https://homepages.inf.ed.ac.uk/rbf/HIPR2/typelib.htm
