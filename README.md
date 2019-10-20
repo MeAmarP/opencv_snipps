@@ -20,13 +20,10 @@
     - ~~Contrast Stretching~~
     - ~~Histogram Processing~~
     - ~~Histogram Equalization~~
-    - Spatial & Linear Filtering
-5. Geometric Transformation and Image Registration
-    - Affine Transform
-    - Projective Transform
+    - ~~Spatial & Linear Filtering~~
+5. Morphological Image Processing
 6. Color Image Processing
-7. Morphological Image Processing
-8. Image Segmentation/Object Detection.
+7. Image Segmentation/Object Detection.
     - Color or shape based object detection.
     - Point, Line, Edge Detect.
     - Region-Based Segmentation.
