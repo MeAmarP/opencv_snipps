@@ -20,9 +20,7 @@
     - ~~Contrast Stretching~~
     - ~~Histogram Processing~~
     - ~~Histogram Equalization~~
-    - Spatial Filtering
-    - Spatial Correlation and Convolution
-    - Linear Spatial Filters(average, disk, laplacian, log, motion, prewitt, sobel, unsharp).
+    - Spatial & Linear Filtering
 5. Geometric Transformation and Image Registration
     - Affine Transform
     - Projective Transform
