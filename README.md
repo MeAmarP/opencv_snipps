@@ -22,8 +22,7 @@
     - ~~Histogram Equalization~~
     - ~~Spatial & Linear Filtering~~
 5. ~~Morphological Image Processing~~
-6. Color Image Processing
-7. Image Segmentation/Object Detection.
+6. Image Segmentation/Object Detection.
     - Color or shape based object detection.
     - Point, Line, Edge Detect.
     - Region-Based Segmentation.
