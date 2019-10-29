@@ -24,7 +24,7 @@
 5. ~~Morphological Image Processing~~
 6. Image Segmentation/Object Detection.
     - Color or shape based object detection.
-    - Point, Line, Edge Detect.
+    - ~~Point, Line, Edge Detect.~~
     - Region-Based Segmentation.
 
 
