@@ -23,7 +23,7 @@
     - ~~Spatial & Linear Filtering~~
 5. ~~Morphological Image Processing~~
 6. Image Segmentation/Object Detection.
-    - Color or shape based object detection.
+    - ~~Color or shape based object detection.~~
     - ~~Point, Line, Edge Detect.~~
     - Region-Based Segmentation.
 
