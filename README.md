@@ -3,7 +3,7 @@
 ### 1. Helpful Python snippets for Image Processing using OpenCV
     For, Binary, Grayscale and RGB Images.
 1. Basic I/0: Read,Show,Write Images
-    - Image Represenation in OpenCV
+    - ~~Image Represenation in OpenCV~~
 2. Basic Operations:
     - ~~Convert~~
     - ~~Resize~~
